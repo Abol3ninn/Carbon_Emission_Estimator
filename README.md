@@ -54,7 +54,7 @@ Simply describe your trip (e.g., *"Flight from Berlin to Stuttgart and back"*), 
 
 ## 📊 Example Output
 
-![Screenshot showing emission estimates and alternatives](/images/screenshot.png)
+![Screenshot showing emission estimates and alternatives](/images/Screenshot.png)
 
 ---
 

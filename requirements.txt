@@ -1,0 +1,6 @@
+streamlit==1.30.0
+spacy[cpu]==3.7.4
+geopy==2.4.0
+matplotlib==3.8.0
+numpy==1.26.4
+blis==0.7.9
